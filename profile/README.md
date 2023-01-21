@@ -8,7 +8,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/simplo-vr/docs">Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://discord.gg/">Discord</a>
+  <a href="https://discord.gg/KBsE46Dj9f">Discord</a>
   <br />
   <hr />
 </div>
