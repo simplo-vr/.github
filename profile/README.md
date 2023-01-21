@@ -4,9 +4,9 @@
   <h1>SimploVR</h1>
 
   <br />
-  <a href="https://simplovr.hackclub.com">Website</a>
+  <a href="https://simplovr.mintlify.app/">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/simplo-vr/docs">Docs</a>
+  <a href="https://simplovr.mintlify.app/">Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://discord.gg/KBsE46Dj9f">Discord</a>
   <br />
